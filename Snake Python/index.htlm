@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Snake Game</title>
+</head>
+<body>
+    <iframe src="snake_game.html" width="600" height="600" frameborder="0"></iframe>
+</body>
+</html>
